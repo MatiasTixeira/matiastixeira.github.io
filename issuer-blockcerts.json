@@ -4,7 +4,7 @@
     "https://w3id.org/blockcerts/v3"
   ],
   "type": "Profile",
-  "id": "https://github.com/MatiasTixeira/blockcertsWebDidKey/blob/main/issuer-blockcerts.json",
+  "id": "https://matiastixeira.github.io/blockcertsWebDidKey/issuer-blockcerts.json",
   "name": "Universidad Nacional de Quilmes (pruebas)",
   "url": "https://MatiasTixeira.github.io",
   "email": "matiastixera.3240@gmail.com",
