@@ -23,7 +23,7 @@
     {
       "id": "#issuer-profile",
       "type": "IssuerProfile",
-      "serviceEndpoint": "https://matiastixeira.github.io/blockcertsWebDidKey/issuer-blockcerts.json"
+      "serviceEndpoint": "https://matiastixeira.github.io/issuer-blockcerts.json"
     }
   ]
 }
